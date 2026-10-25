@@ -1,0 +1,9 @@
+[project]
+name = "mini-freelance-rate-calculator"
+version = "0.1.0"
+description = "Estimates direct-cost-adjusted hourly earnings and compares them with a configurable hourly floor."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
